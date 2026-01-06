@@ -26,7 +26,7 @@
 		  	COUNT(DISTINCT invoiceno) AS invoice_count
 		  FROM bhv_online_retail_raw
 		  ;
-		- ![image.png](../assets/image_1767328790037_0.png)
+		- ![image.png](/assets/image_1767328790037_0.png)
 	- stockcode
 		- SELECT 
 		  	COUNT(DISTINCT stockcode) AS stockcode_count
