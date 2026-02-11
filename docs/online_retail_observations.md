@@ -38,14 +38,14 @@
 		- Invoiceno has a target type of INT.
 		- InvoiceDate is of type VARCHAR.
 	- Null values
-		- ![image.png](../assets/image_1767333745309_0.png){:height 42, :width 463}
+		- ![image.png](../assets/image_1767333745309_0.png)
 	- Invalid values
 		- ![image.png](../assets/image_1767441081623_0.png)
 		- ![image.png](../assets/image_1767344303362_0.png)
 		- All cancelled transactions have a negative quantity; only quantity had invalid values, all values under UnitPrice were above 0. All other transactions have proper values
 	- Distribution Overview
 		- quantity
-			- ![image.png](../assets/image_1767588585813_0.png) {:height 38, :width 307}
+			- ![image.png](../assets/image_1767588585813_0.png)
 		- unitprice
 			- ![image.png](../assets/image_1767346613683_0.png)
 	- Duplicates
